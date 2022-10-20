@@ -1,0 +1,24 @@
+{
+  "name": "chat-app-websockets-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isini-Dananjana/Chat-App-websockets-.git"
+  },
+  "author": "Isini Dananjana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isini-Dananjana/Chat-App-websockets-/issues"
+  },
+  "homepage": "https://github.com/Isini-Dananjana/Chat-App-websockets-#readme",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "websocket": "^1.0.34"
+  }
+}
